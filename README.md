@@ -1,0 +1,2 @@
+# Time-Based-Browsing-Pattern-Analyzer-using-Deep-Learning-with-RAM-Usage-Correlation
+This project focuses on analyzing a user’s productivity by combining web browsing history and system RAM usage patterns. The main goal is to understand how different types of online activities impact system resource consumption and to classify user behavior into meaningful categories such as productive or non-productive.
