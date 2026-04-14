@@ -1,0 +1,5 @@
+category,priority,recommendation,evidence,metric
+Performance Optimization,High,Optimize cloud_services usage - close unused tabs or use lighter alternatives,cloud_services category uses 1340 MB browser RAM on average,browser_ram_mean: 1340 MB
+Health & Wellbeing,High,Take 5-10 minute breaks every hour to reduce eye strain and improve focus,1 sessions exceeded 60 minutes without breaks,long_sessions: 1
+Learning Optimization,Medium,Your peak learning time is around 3:00 - schedule important courses then,"9 learning sessions, most active at hour 3",learning_sessions: 9
+Development Workflow,Medium,Development sessions average 57.7 min - consider Pomodoro technique,1 development sessions analyzed,avg_dev_duration: 57.7 minutes
