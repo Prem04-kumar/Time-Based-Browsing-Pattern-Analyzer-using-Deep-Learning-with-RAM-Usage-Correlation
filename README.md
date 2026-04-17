@@ -107,13 +107,7 @@ The notebook demonstrates a **step-by-step analytical workflow**, making it idea
 | Notebook           | Jupyter                        |
 | System Monitoring  | psutil                         |
 
----
 
-## 🚀 How to Run  
-
-### 1️⃣ Install Dependencies  
-```bash
-pip install -r requirements.txt
 
 
 ## 👨‍💻 Author
